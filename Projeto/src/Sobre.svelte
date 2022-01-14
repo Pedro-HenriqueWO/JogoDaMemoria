@@ -5,9 +5,9 @@
 
 <h1>Sobre</h1>
 
-<img src=https://i0.wp.com/nilljunior.com.br/wp-content/uploads/2017/01/IFPE-660x330.png alt="logo IPFE"/>
+<img src=https://sites.ufpe.br/polotecnologico/wp-content/uploads/sites/76/2021/09/logo-ifpe.png  alt="logo IFPE" width=200 height=200/>
 <p>Projeto do primeiro período da disciplina de Programação Imperativa.</p>
-<h2>Quem fez?</h2>
+<h2>Realizadores do projeto</h2>
 
 <ul>
     <li>Adryan</li>
