@@ -102,4 +102,3 @@
 <!-- reaproveita o botão de voltar para o menu -->
 <VoltarMenu />
 
-<VoltarMenu />
