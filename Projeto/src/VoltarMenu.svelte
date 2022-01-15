@@ -7,7 +7,7 @@
 </button>
 
 <style>
-	button{ aaaaaaaaaaaaaa
+	button{ 
         font-style:oblique;
        color:white;
        cursor: pointer;
